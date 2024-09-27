@@ -1,0 +1,10 @@
+.about-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-container p{
+   margin: 0px 120px;
+}
